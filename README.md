@@ -1,8 +1,8 @@
-Project Summary
+#Project Summary
 
 A complete Exploratory Data Analysis (EDA) of the Titanic dataset from Kaggle. The goal is to explore survival patterns among passengers using data cleaning, statistical summaries, and visualizations.
 
-Data Story
+#Data Story
 
 The Titanic dataset reveals clear survival patterns among passengers:
 
@@ -14,5 +14,6 @@ The age distribution showed that most passengers were between 20–40 years old,
 
 The correlation heatmap indicated that Fare and Pclass (ticket class) had a noticeable relationship with Survived, suggesting that wealth played a major role.
 
-✅ Conclusion:
+#✅ Conclusion:
 The tragedy of the Titanic highlights the inequalities of the time — gender and class significantly influenced survival. Passengers with higher social standing and access to lifeboats had much greater chances of surviving.
+
